@@ -1,0 +1,29 @@
+nav {
+
+}
+
+.dropdown-content {
+  background-color:#ee6e73;
+}
+.dropdown-content a{
+
+   color"#fff;
+}
+.dropdown-content li > a, .dropdown-content li > span {
+  color:#fff;
+}
+.dropdown-content li:hover, .dropdown-content li.active, .dropdown-content li.selected {
+
+  background-color:rgba(0,0,0,0.1);
+}
+.side-nav {
+
+   height:auto;
+   background-color:#ee6e73;
+}
+.side-nav a {
+  color:#fff;
+}
+.side-nav li {
+  border-bottom:1px solid #e74c3c;
+}
